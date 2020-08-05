@@ -10,7 +10,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"axios": "^0.18.0",
-		"fastify": "^1.13.3",
+		"fastify": "^2.15.1",
 		"querystring": "^0.2.0",
 		"restify": "^7.5.0",
 		"restify-cors-middleware": "^1.1.1"
